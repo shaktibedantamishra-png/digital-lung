@@ -52,4 +52,4 @@ Analysis parameters: seed 20260929 (engine), 20261005 (post hoc), 20261006 and 2
 
 ## Licence and citation
 
-Code: MIT License (see LICENSE). Cite the Zenodo DOI for the release once minted.
+Code: MIT License (see LICENSE). Archived release v1.0.0: https://doi.org/10.5281/zenodo.23445946 (the earlier record 10.5281/zenodo.23445921 is superseded and lacks the licence).
