@@ -1,6 +1,6 @@
-# digital-lung-icmx
+# digital-lung
 
-Code, specifications and aggregate results for "What routine ICU mechanics data can and cannot constrain in a human-data-bounded digital lung" (Intensive Care Medicine Experimental, submission candidate).
+Code, specifications and aggregate results for "What routine ICU mechanics data can and cannot constrain in a human-data-bounded digital lung".
 
 No patient-level data are included. The source databases (MIMIC-IV, eICU-CRD, HiRID) are available to credentialed users via PhysioNet. Pipeline scripts read harmonised SUPER-ICU parquet files that are not redistributed; the path is set through the environment variable SUPERICU_DATA.
 
@@ -13,7 +13,7 @@ No patient-level data are included. The source databases (MIMIC-IV, eICU-CRD, Hi
 | spec/posthoc_deviations.md | log | 7–18 Oct 2026 | Deviations PD1–PD8, logged as they occurred |
 | spec/engine_spec_v1.md | v1 | not dated in file | Header reads "DRAFT, for sign-off before any run"; see note below |
 
-Note on the engine specification: the manuscript describes the engine specification as locked before the engine was run. The header of spec/engine_spec_v1.md still says DRAFT, and no lock hash file is included. Either add the lock record (hash and date) or change the manuscript wording before release.
+Note on the engine specification: spec/engine_spec_v1.md has no lock record (hash and date) and its header reads DRAFT. Do not treat it as pre-registered.
 
 ## Contents
 
@@ -52,4 +52,4 @@ Analysis parameters: seed 20260929 (engine), 20261005 (post hoc), 20261006 and 2
 
 ## Licence and citation
 
-Code: to be chosen by the authors before release (not yet applied). Cite the Zenodo DOI for the release once minted.
+Code: MIT License (see LICENSE). Cite the Zenodo DOI for the release once minted.
