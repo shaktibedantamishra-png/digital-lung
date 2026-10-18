@@ -1,0 +1,4 @@
+db,n_steps,stays_increase,stays_decrease,n_paired,median_increase,median_decrease,diff_dec_minus_inc,ci_dec_minus_inc,wilcoxon_p,pct_decrease_lower,diff_inc_minus_dec,ci_inc_minus_dec,spec
+mimic,4851,1685,1791,743,0.67,0.88,0.13,0.07 to 0.25,8e-05,39.8,-0.13,-0.25 to -0.07,"consecutive events, same PBW bin, |dPEEP|>=2, gap<=4 h"
+eicu,1729,670,675,255,0.65,0.65,0.0,-0.20 to 0.00,0.97,47.8,0.0,0.00 to 0.20,"consecutive events, same PBW bin, |dPEEP|>=2, gap<=4 h"
+hirid,11425,3185,2394,1730,0.61,0.64,0.05,0.03 to 0.08,0.0019,45.2,-0.05,-0.08 to -0.03,"consecutive events, same PBW bin, |dPEEP|>=2, gap<=4 h"

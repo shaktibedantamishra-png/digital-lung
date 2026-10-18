@@ -1,0 +1,3 @@
+db,stays,median_crs_total_all,median_crs_total,median_crs_set,median_diff,iqr,median_rel_pct,pct_stays_set_lower,mean_tot_minus_set_peep
+mimic,20040,43.0,43.0,41.8,0.0,-2.01 to 0.00,0.0,42.4,0.51
+hirid,18742,43.5,43.5,43.2,-0.21,-0.71 to 0.19,-0.5,33.6,0.13

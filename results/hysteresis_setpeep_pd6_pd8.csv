@@ -1,0 +1,9 @@
+db,analysis,n_paired,median_increase,median_decrease,diff_increase_minus_decrease,ci_increase_minus_decrease,wilcoxon_p
+mimic,Measured total PEEP (primary),743,0.67,0.88,-0.13,-0.25 to -0.07,8.0e-05
+mimic,Set PEEP,606,0.8,1.0,-0.17,-0.25 to -0.00,9.2e-07
+mimic,"Set PEEP, set-PEEP lag <=5 min (PD8)",601,0.83,1.0,-0.17,-0.25 to -0.00,8.1e-07
+mimic,"Set PEEP, no-intrinsic-PEEP subset (exploratory)",32,0.9,1.0,-0.37,-0.70 to -0.00,7.0e-02
+hirid,Measured total PEEP (primary),1730,0.61,0.64,-0.05,-0.08 to -0.03,1.9e-03
+hirid,Set PEEP,1491,0.25,0.81,-0.32,-0.38 to -0.25,9.1e-50
+hirid,"Set PEEP, set-PEEP lag <=5 min (PD8)",1364,0.7,0.95,-0.24,-0.27 to -0.18,1.1e-26
+hirid,"Set PEEP, no-intrinsic-PEEP subset (exploratory)",29,0.68,1.06,-0.16,-0.75 to 0.10,1.9e-02

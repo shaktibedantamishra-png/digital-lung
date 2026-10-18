@@ -1,0 +1,7 @@
+db,n_steps,stays_increase,stays_decrease,n_paired,median_increase,median_decrease,median_diff,ci,wilcoxon_p,pct_decrease_lower,analysis
+mimic,4851,1685,1791,743,0.67,0.88,0.13,0.07 to 0.25,8.0e-05,39.8,"Primary, total PEEP"
+mimic,4066,1437,1518,606,0.8,1.0,0.17,0.00 to 0.25,9.2e-07,36.1,Set PEEP
+mimic,407,208,174,32,0.9,1.0,0.37,0.00 to 0.70,7.0e-02,31.2,"No-intrinsic-PEEP subset, set PEEP"
+hirid,11425,3185,2394,1730,0.61,0.64,0.05,0.03 to 0.08,1.9e-03,45.2,"Primary, total PEEP"
+hirid,9268,3039,2166,1491,0.25,0.81,0.32,0.25 to 0.38,9.1e-50,32.6,Set PEEP
+hirid,309,170,117,29,0.68,1.06,0.16,-0.10 to 0.75,1.9e-02,41.4,"No-intrinsic-PEEP subset, set PEEP"

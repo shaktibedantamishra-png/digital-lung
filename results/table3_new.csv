@@ -1,0 +1,4 @@
+db,n,recruitment-consistent_k,recruitment-consistent_pct,recruitment-consistent_ci,neutral_k,neutral_pct,neutral_ci,overdistension-consistent_k,overdistension-consistent_pct,overdistension-consistent_ci,median_slope,median_slope_ci,iqr_slope,chi2,chi2_p,cramers_v,cramers_v_ci
+mimic,4521,2577,57.0,55.6 to 58.4,757,16.7,15.7 to 17.9,1187,26.3,25.0 to 27.6,0.82,0.80 to 0.83,0.46 to 1.12,71.8,9.4e-15,0.054,0.043 to 0.068
+eicu,2635,1462,55.5,53.6 to 57.4,314,11.9,10.7 to 13.2,859,32.6,30.8 to 34.4,0.8,0.76 to 0.83,0.25 to 1.27,71.8,9.4e-15,0.054,0.043 to 0.068
+hirid,5110,2948,57.7,56.3 to 59.0,622,12.2,11.3 to 13.1,1540,30.1,28.9 to 31.4,0.79,0.77 to 0.81,0.31 to 1.20,71.8,9.4e-15,0.054,0.043 to 0.068

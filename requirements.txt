@@ -1,0 +1,7 @@
+# Built and verified with Python 3.11.15
+pandas==2.3.3
+numpy==2.4.6
+scipy==1.17.1
+pyarrow==25.0.0
+matplotlib==3.11.0
+python-docx==1.2.0

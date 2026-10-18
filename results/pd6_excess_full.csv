@@ -1,0 +1,6 @@
+analysis,db,n,s_e,obs_rec,obs_rec_ci,null_rec,null_rec_pi,excess,excess_ci,obs_over,null_over,obs_median,null_median
+"Set PEEP, all eligible stays",mimic,4035,2.1,53.1,51.5 to 54.6,38.6,37.2 to 40.0,14.5,12.9 to 16.1,30.4,37.7,0.87,1.0
+"Set PEEP, no-intrinsic-PEEP subset",mimic,593,1.77,54.0,49.9 to 57.9,40.9,37.4 to 44.5,13.1,9.0 to 17.1,29.0,41.1,0.83,1.0
+"Set PEEP, all eligible stays",hirid,4107,2.48,55.8,54.2 to 57.3,29.3,28.0 to 30.5,26.5,25.0 to 28.0,30.9,30.5,0.82,1.0
+"Set PEEP, no-intrinsic-PEEP subset",hirid,286,1.53,52.8,47.0 to 58.5,29.8,25.2 to 33.9,23.0,16.9 to 29.2,33.2,32.1,0.85,1.01
+Set PEEP (eICU-CRD primary),eicu,2635,3.17,55.5,53.6 to 57.4,42.4,40.4 to 44.1,13.1,11.2 to 15.1,32.6,41.6,0.8,0.99
